@@ -10,7 +10,11 @@ namespace sdfdsfdsfsdfsdfsdfsdfsd
     {
         static void Main(string[] args)
         {
-            cxknvshufhviufhviufdhusdhusdhusdhusdhjsdsdv
+            public abstract class Animal
+        {
+            public abstract string MakeSound(); // Phương thức trừu tượng
         }
+
     }
+}
 }
