@@ -10,7 +10,8 @@ namespace baif_taap_thuc_hanh
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("khfdshf");
+            Console.WriteLine("khfdshf");\
+            Console.ReadKey();
         }
     }
 }
